@@ -1,6 +1,6 @@
 <?php
  
-    
+     
 include_once dirname( __FILE__ )  . "/core/Loader/autoload.php";  
 require_once dirname( __FILE__ )  . "/config/config.php"; 
 
