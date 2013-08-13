@@ -19,7 +19,7 @@ class CustomerController extends FrontController
 		$customer = new Customer();
 		$customer->save();
 		
-	echo 'lecole sa va';
+		// return ...
 		 var_dump($params);
 		 die();
 	 
